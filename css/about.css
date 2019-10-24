@@ -8,6 +8,7 @@
     
 }
 
+
 .intro{
     height: 250px;
     background: #666666;
@@ -43,6 +44,7 @@ border: 5px solid #f5f5f5;
 .featured{
     height: auto;
     background-color: #f5f5f5;
+
     align-items: center;
     height: 705px;
 }
@@ -57,6 +59,7 @@ border: 5px solid #f5f5f5;
 }
 .about-img{
     background-color: #666666;
+    background-image: url(https://images.pexels.com/photos/1488507/pexels-photo-1488507.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
 }
 .about-content> .read-more{
     color: #a88d7b;
